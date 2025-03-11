@@ -1,5 +1,5 @@
 # TransUNet
-The code in this repository is copied from: [TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation](https://arxiv.org/pdf/2102.04306.pdf)
+The code in this repository is based on the official TransUnet. : [TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation](https://arxiv.org/pdf/2102.04306.pdf)
 
 
 ### 1. Environment
@@ -8,11 +8,11 @@ Please prepare an environment with python=3.7, and then use the command "pip ins
 
 ### 2. Data (All data are available!)
 
-Access the paper data: https://drive.google.com/drive/folders/1ZvC0ZnxUoVo4GtttgX0coheGOQ4sr9pW?usp=sharing
+Access the paper data. : https://drive.google.com/drive/folders/1ZvC0ZnxUoVo4GtttgX0coheGOQ4sr9pW?usp=sharing
 
 ### 3. Train/Test
 
-Refer to the official training method of TransUnet.:https://github.com/Beckschen/TransUNet
+Refer to the official training method of TransUnet. :https://github.com/Beckschen/TransUNet
 
 ## Reference
 * [TransUnet](https://github.com/Beckschen/TransUNet)
