@@ -14,7 +14,7 @@ mv {MODEL_NAME}.npz ../model/vit_checkpoint/imagenet21k/{MODEL_NAME}.npz
 
 ### 2. Prepare data (All data are available!)
 
-All data are available so no need to send emails for data. Please use the [BTCV preprocessed data](https://drive.google.com/drive/folders/1ACJEoTp-uqfFJ73qS3eUObQh52nGuzCd?usp=sharing) and [ACDC data](https://drive.google.com/drive/folders/1KQcrci7aKsYZi1hQoZ3T3QUtcy7b--n4?usp=drive_link).
+Access the paper data: https://drive.google.com/drive/folders/1ZvC0ZnxUoVo4GtttgX0coheGOQ4sr9pW?usp=sharing
 
 ### 3. Environment
 
